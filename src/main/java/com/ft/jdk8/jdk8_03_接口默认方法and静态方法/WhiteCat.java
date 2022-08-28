@@ -1,4 +1,4 @@
-package com.ft.jdk8;
+package com.ft.jdk8.jdk8_03_接口默认方法and静态方法;
 
 import lombok.extern.slf4j.Slf4j;
 

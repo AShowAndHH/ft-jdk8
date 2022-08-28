@@ -1,4 +1,4 @@
-package com.ft.jdk8;
+package com.ft.jdk8.jdk8_03_接口默认方法and静态方法;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
